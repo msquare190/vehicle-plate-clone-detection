@@ -8,8 +8,7 @@ Original file is located at
 
 Title:
 Enhancing Vehicle Identification Systems: A Deep Learning Approach to Detecting
-Cloned and Anomalous License Plates in the UK – From Model Development to
-Practical Implementation
+Cloned and Anomalous License Plates in the UK
 
 This script is my end-to-end experimental pipeline. It covers:
 
