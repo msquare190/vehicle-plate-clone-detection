@@ -2,7 +2,7 @@
 
 This repository contains the code for my MSc Data Science dissertation:
 
-> Enhancing Vehicle Identification Systems: A Deep Learning Approach to Detecting Cloned and Anomalous License Plates in the UK – From Model Development to Practical Implementation
+> Enhancing Vehicle Identification Systems: A Deep Learning Approach to Detecting Cloned and Anomalous License Plates in the UK
 
 The project focuses on detecting cloned vehicle number plates using a combination of:
 
