@@ -1,4 +1,4 @@
-# Vehicle Plate Clone Detection – MSc Dissertation Project
+Vehicle Plate Clone Detection – MSc Dissertation Project
 
 This repository contains the code for my MSc Data Science dissertation:
 
@@ -31,4 +31,16 @@ This project simulates and analyses cloned-plate scenarios by:
    - Temporal anomaly (speed implied between sightings)  
 4. Evaluating performance and performing ablation studies.
 5. Providing a Streamlit app for visual, interactive demos.
+
+
+Dataset Access
+
+This project uses two publicly available datasets:
+
+- Kaggle UK Synthetic Licence Plate Dataset  
+  https://www.kaggle.com/datasets/saadbinmunir/uk-licence-plate-synthetic-images
+
+- Roboflow License Z4TOU Vehicle & Plate Dataset  
+  https://universe.roboflow.com/license-rl231/license-z4tou
+
 
